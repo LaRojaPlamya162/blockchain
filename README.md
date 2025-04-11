@@ -6,5 +6,6 @@ yarn deploy --reset
 yarn start
 (3 terminal khác nhau)
 Kết quả :
-![image](https://github.com/user-attachments/assets/a782ded1-14d6-4d57-941a-a29934c37126)
-![image](https://github.com/user-attachments/assets/5065ea57-98a7-4ea2-828f-724859758fb7)
+![image](https://github.com/user-attachments/assets/34ee8400-82fa-4b25-b37c-d623c6a5831e)
+![image](https://github.com/user-attachments/assets/bf16f2a1-dfed-489c-bf45-94cef33163cf)
+
